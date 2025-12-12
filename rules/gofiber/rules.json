@@ -1,0 +1,7 @@
+{
+    "name": "gofiber/gofiber-api-development",
+    "description": "Best practices for building production-grade APIs with Go and Fiber",
+    "version": "0.0.1",
+    "author": "Go Team",
+    "tags": ["gofiber", "go", "microservices", "backend", "best-practices"]
+}

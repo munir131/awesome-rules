@@ -30,15 +30,16 @@ Rules are more than just suggestions; they’re essential building blocks that s
 ### Framework Specific
 - [Express](./rules/express)
 - [FastAPI](./rules/fastapi)
+- [GoFiber](./rules/gofiber)
+- [LanceDB](./rules/lancedb/)
 - [Next.js](./rules/nextjs)
 - [React](./rules/react)
 - [Supabase](./rules/supabase)
-- [LanceDB](./rules/lancedb/)
-- [tailwind](./rules/tailwind)
-- [trpc](./rules/trpc)
 - [Vue.js](./rules/vue)
 - [Zuplo](./rules/zuplo/)
 - [cognee](./rules/cognee/)
+- [tailwind](./rules/tailwind)
+- [trpc](./rules/trpc)
 
 ### Code Quality
 
